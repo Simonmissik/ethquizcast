@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of trees.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is an oak?",
+      "answers": ["Tree", "Flower", "Bush"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is a pine?",
+      "answers": ["Tree", "Herb", "Grass"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is bark?",
+      "answers": ["Skin", "Leaf", "Root"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a maple?",
+      "answers": ["Tree", "Fruit", "Seed"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a willow?",
+      "answers": ["Tree", "Bush", "Flower"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an elm?",
+      "answers": ["Tree", "Grass", "Flower"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a birch?",
+      "answers": ["Tree", "Herb", "Bush"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a leaf?",
+      "answers": ["Part", "Fruit", "Seed"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a spruce?",
+      "answers": ["Tree", "Herb", "Grass"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a trunk?",
+      "answers": ["Stem", "Root", "Branch"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a fir?",
+      "answers": ["Tree", "Flower", "Bush"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a cedar?",
+      "answers": ["Tree", "Herb", "Grass"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is shade?",
+      "answers": ["Shadow", "Light", "Color"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is photosynthesis?",
+      "answers": ["Process", "Color", "Energy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a palm?",
+      "answers": ["Tree", "Bush", "Flower"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a baobab?",
+      "answers": ["Tree", "Grass", "Herb"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a bonsai?",
+      "answers": ["Mini", "Large", "Fruit"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is evergreen?",
+      "answers": ["Tree", "Bush", "Flower"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is deciduous?",
+      "answers": ["Tree", "Grass", "Flower"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a redwood?",
+      "answers": ["Tree", "Herb", "Bush"],
       "correctAnswerIndex": 0
     }
   ]
